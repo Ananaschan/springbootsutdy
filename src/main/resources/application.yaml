@@ -1,0 +1,12 @@
+person:
+  name: ananas
+  age: 21
+  happy: true
+  map: {k1: v1,k2: v2}
+  list:
+    - 1
+    - 2
+    - 3
+  dog:
+    name: dog1
+    age: 3
